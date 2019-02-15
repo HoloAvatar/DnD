@@ -1,0 +1,25 @@
+@import 'https://fonts.googleapis.com/css?family=Marcellus:300,400,500';
+
+body {
+	text-align: center;
+  	font-family: "Marcellus", "Helvetica", "Arial", sans-serif;
+ 	line-height: 1.5;
+  	padding: 4em 1em;
+  	color: #566b78;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
+
+h1 {
+  color: #333;
+  font-family: "Marcellus", "Helvetica", "Arial", sans-serif;
+
+}
+
+a {
+  color: #e81c4f;
+}
