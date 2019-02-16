@@ -1,5 +1,16 @@
 @import 'https://fonts.googleapis.com/css?family=Marcellus:300,400,500';
 
+header {
+  background-color: #263d36;
+  background-image: url("header.jpg");
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 1.2;
+  padding: 10vw 2em;
+  text-align: center;
+}
+
 body {
 	text-align: center;
   	font-family: "Marcellus", "Helvetica", "Arial", sans-serif;
@@ -11,11 +22,11 @@ body {
 h2 {
   margin-top: 1em;
   padding-top: 1em;
-  color: #333;
+  color: red;
 }
 
 h1 {
-  color: #333;
+  color: red;
   font-family: "Marcellus", "Helvetica", "Arial", sans-serif;
 
 }
@@ -23,3 +34,4 @@ h1 {
 a {
   color: #e81c4f;
 }
+
