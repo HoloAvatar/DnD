@@ -16,9 +16,19 @@ body {
   	font-family: "Marcellus", "Helvetica", "Arial", sans-serif;
  	line-height: 1.5;
   	padding: 4em 1em;
-  	color: #566b78;
+  	color: black;
+    background: linear-gradient(direction/angle, color1, color2, color3, etc.);
+    background: -webkit-linear-gradient(#93B874, #C9DCB9); 
+    background: -o-linear-gradient(#93B874, #C9DCB9); 
+    background: -moz-linear-gradient(#93B874, #C9DCB9); 
+    background: linear-gradient( #ffff4d, #ff3300); 
+
 }
 
+
+ul{
+  text-align: left;
+}
 h2 {
   margin-top: 1em;
   padding-top: 1em;
@@ -28,10 +38,13 @@ h2 {
 h1 {
   color: red;
   font-family: "Marcellus", "Helvetica", "Arial", sans-serif;
+  font-size: 100px;
 
 }
 
 a {
   color: #e81c4f;
 }
-
+img {
+   border-radius: 8px;
+}
