@@ -26,9 +26,6 @@ body {
 }
 
 
-ul{
-  text-align: left;
-}
 h2 {
   margin-top: 1em;
   padding-top: 1em;
@@ -47,4 +44,19 @@ a {
 }
 img {
    border-radius: 8px;
+}
+
+nav {
+
+
+}
+
+nav a {
+
+
+}
+
+nav a:hover {
+
+
 }
